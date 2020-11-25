@@ -1,0 +1,2 @@
+class RomsController < ApplicationController
+end
